@@ -1,3 +1,5 @@
+![corriendo en termux](https://github.com/user-attachments/assets/3f7cf3e7-f7d8-4f43-921d-32ddee2a0f43) 
+
 GETROBARB XSS Scanner es un framework automatizado de reconocimiento y detección de vulnerabilidades XSS (Cross-Site Scripting) escrito en Bash, diseñado para auditorías de seguridad web autorizadas. Integra varias utilidades populares del ecosistema de bug bounty y pentesting para automatizar todo el flujo de descubrimiento de endpoints vulnerables.
 
 Descripción de la herramienta: GETROBARB XSS Scanner
@@ -179,8 +181,6 @@ Laboratorios de seguridad
 ✅ En resumen:
 
 GETROBARB XSS Scanner es un framework automatizado de reconocimiento web y detección de XSS, que integra varias herramientas populares de pentesting para ejecutar un workflow completo de descubrimiento de vulnerabilidades de forma rápida y estructurada.
-
-![corriendo en termux](https://github.com/user-attachments/assets/3f7cf3e7-f7d8-4f43-921d-32ddee2a0f43)
 
 Telegram
 
